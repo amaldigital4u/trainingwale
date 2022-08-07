@@ -1,0 +1,522 @@
+[33mcommit 3cd68e228fd1ccaac19035eb5fcbf3cfe69d0888[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: amal <amal.digital4u@gmail.com>
+Date:   Sun Aug 7 21:46:26 2022 +0530
+
+    Maven automated
+
+[33mcommit 426fa1bf91f02ecae31feefdc14e308f0bdb941f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: amaldigital4u <109710643+amaldigital4u@users.noreply.github.com>
+Date:   Sun Aug 7 19:30:05 2022 +0530
+
+    Update index.jsp
+
+[33mcommit 82749c3c6e2ec0d69d53ae9b620c35a163ad6022[m
+Author: amaldigital4u <109710643+amaldigital4u@users.noreply.github.com>
+Date:   Sun Aug 7 02:05:45 2022 +0530
+
+    Update index.jsp
+
+[33mcommit ff1b5e1f46a4d48d5ca14a48e8c7ddc65dc13a25[m
+Author: amaldigital4u <109710643+amaldigital4u@users.noreply.github.com>
+Date:   Wed Aug 3 08:21:23 2022 +0530
+
+    Update index.jsp
+
+[33mcommit c05098e3e57b0cfecd2e831a87e826f12c65272a[m
+Author: adis2hope <40731640+adis2hope@users.noreply.github.com>
+Date:   Mon Jul 25 23:23:05 2022 -0400
+
+    new update 2
+
+[33mcommit e25a9d921d7e7fdb523ce830dbbe7c1553eba67f[m
+Merge: 6913213 ec8a23d
+Author: adis2hope <40731640+adis2hope@users.noreply.github.com>
+Date:   Mon Jul 25 23:19:23 2022 -0400
+
+    new update
+
+[33mcommit 691321304c8b3b7142a3d608790486b31be2bfb1[m
+Author: adis2hope <40731640+adis2hope@users.noreply.github.com>
+Date:   Mon Jul 25 23:16:21 2022 -0400
+
+    2nd project
+
+[33mcommit ec8a23dd1d2df89b8eb8e82dbc4f3e649e8e1599[m
+Author: devopscloudsre <59342234+devopscloudsre@users.noreply.github.com>
+Date:   Sun Jul 24 23:41:30 2022 -0400
+
+    Update index.jsp
+
+[33mcommit 1c8850477ec52bf0a02025c4fa8fea4a47859e94[m
+Author: adis2hope <40731640+adis2hope@users.noreply.github.com>
+Date:   Tue Jun 7 12:30:46 2022 +0530
+
+    new chnages for 11:30 class
+
+[33mcommit 42ac00d4c6244c5568eca34ae274a6c1c037a652[m
+Author: adis2hope <40731640+adis2hope@users.noreply.github.com>
+Date:   Tue Feb 22 09:33:58 2022 +0530
+
+    index.jsp updated
+
+[33mcommit 8cbc1ae33821889dfb43e0b9c00aafa1d88b0254[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue Oct 5 14:27:58 2021 +0530
+
+    created new jenkins file - jira101
+
+[33mcommit 6531be144f20a2c32268ccf3e21ad65073391d7c[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Sep 16 09:11:42 2021 +0530
+
+    Update index.jsp
+
+[33mcommit f6a87698370116c3051ffa5a9706de5cddf195bf[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Fri Jul 23 07:33:17 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 8cbaa375b06fd63d4b37a0b9c9367f7a2b6641b5[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Fri Jul 23 07:31:53 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 74dbbeba875eb0ae2bb33e98a52f66fa329cf104[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Fri Jul 23 07:30:20 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 917a4201a645aea8dd9d184fcc2440717418ccab[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Fri Jul 23 07:29:50 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit c677661452d621c0b07e80a2f62ce6e8fc8201af[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Fri Jul 23 07:26:45 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 8a6fff074f981bf85fab9708a795b5fcd0ea4ca1[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Fri Jul 23 07:22:25 2021 +0530
+
+    Create Jenkinsfile
+
+[33mcommit 74b5fe84fca858252ac085d69ed593bcb1eea753[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Wed Jul 21 09:10:16 2021 +0530
+
+    Update index.jsp
+
+[33mcommit 7895fb18aab656b29cec93d159783691e7607830[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Wed Jul 21 09:05:48 2021 +0530
+
+    Update index.jsp
+
+[33mcommit f51579cf4d817bcf58e864d936e416e6b60fa979[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Wed Jul 21 08:40:01 2021 +0530
+
+    Update index.jsp
+
+[33mcommit 59924e02868a7fad4b7bf433c137d71b4a1fdcb9[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Wed Jun 16 10:01:05 2021 +0530
+
+    Update index.jsp
+
+[33mcommit 88d6d8404b218e790543a09ceb35077afb5cc917[m
+Author: rahul <mailrahulsre@gmail.com>
+Date:   Wed Jun 16 04:26:09 2021 +0000
+
+    poc code updated
+
+[33mcommit 892a5fc2e7e4431c71b3548434d01f79deb0cd72[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 25 10:23:04 2021 +0530
+
+    Update index.jsp
+
+[33mcommit 62a2246b8583d2af23af66a69a3509447b5abdbb[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 25 10:19:34 2021 +0530
+
+    Update index.jsp
+
+[33mcommit e78134b8b530746a5071a2a586f4381d89c9a5c0[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Apr 1 09:46:20 2021 +0530
+
+    Update index.jsp
+
+[33mcommit c9c4b348dd64663bb74c8160d18683354ff6e728[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Wed Jan 13 12:08:57 2021 +0530
+
+    Update pom.xml
+
+[33mcommit 3d881d473b6d96bbe70caca0c4f2a4ae1317320f[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Dec 3 10:18:58 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 216b52b25e4ce73456c469ebf97083b2fef38c5e[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Nov 9 08:42:29 2020 +0530
+
+    Create index.html
+
+[33mcommit 862c069882ea5b6261d998af96f5071d0dc2a912[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Oct 29 10:25:33 2020 +0530
+
+    Update index.jsp
+
+[33mcommit b8d6410d03aaaec6249587df4e4f83fe235fe92f[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Oct 15 12:02:31 2020 +0530
+
+    Update index.jsp
+
+[33mcommit ee8901a2a3b7ce1d71d74684b3dc3663a3355805[m
+Author: rahul <mailrahulsre@gmail.com>
+Date:   Thu Oct 15 06:25:33 2020 +0000
+
+    new change for shell command
+
+[33mcommit cc23ca94a0620dae3c6014aac8193576b7cf37fc[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Oct 15 11:36:24 2020 +0530
+
+    added docker_stack:
+
+[33mcommit 9a93b7b21c133f632713c758879c60bb6742346c[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sat Oct 10 21:23:01 2020 +0530
+
+    Update index.jsp
+
+[33mcommit db5487ce51a59893137f9c4d81744050d01c6f8d[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Aug 30 13:22:40 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 4c7c69bde979278a8028f2c08045681ddabe4843[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Aug 16 14:03:57 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 54b230eebd94bfa2e1f0bf3b7c59070285451287[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Aug 16 13:57:05 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 281dcf9890a09134703ab4db91aa1ecd4e4759dd[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Aug 10 09:04:19 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 329758a74ab480ff51cb4c63f3c7ec5dde273d8c[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Aug 10 08:58:35 2020 +0530
+
+    Create ansible-playbook.yml
+
+[33mcommit 5d3c1ee7ef0b79f16ad3a8ad5af4d727c6769e06[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Aug 3 11:57:58 2020 +0530
+
+    Update index.jsp
+
+[33mcommit b41c66a1ac17dfb20889459905d957d596045520[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Aug 2 13:32:47 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 3217a075608d9d1bad094745b63008bf5eace886[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Jul 27 08:31:33 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 3792bac0b4cbe0ccbc6fad0f8f4dcaeeca88a340[m[33m ([m[1;31morigin/release[m[33m)[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Jun 18 10:09:34 2020 +0530
+
+    Update index.jsp
+
+[33mcommit f51f0f0d55288163aec2d34001d8a95c34204ca3[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Jun 18 10:07:33 2020 +0530
+
+    Update index.jsp
+
+[33mcommit e6ad471404ac2d82a7ae96939ed3fc63a81c3e24[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sat May 23 12:11:55 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 00af94a36bb96919f75ba98f966f950950b2cc8d[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon May 18 09:39:24 2020 +0530
+
+    Update index.jsp
+
+[33mcommit c2b313576a2b55cdd9b9154e22c652f65f0a1d65[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon May 18 09:29:14 2020 +0530
+
+    Update index.jsp
+
+[33mcommit a544c03ae1ae233ac0a3a45d5ddeb7131ef19162[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 21:54:45 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 23d88d4ecd6c522fc558b3e435875f577938759b[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 21:40:36 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 06e9c0e23047fa95ee20269f87c1c19bb0633fa0[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 20:47:09 2020 +0530
+
+    Update trainingwale.yml
+
+[33mcommit 5900f5ab1d4431f375f744b6a383faf21b923d9d[m
+Author: root <root@ip-172-31-42-34.ap-south-1.compute.internal>
+Date:   Sun May 17 15:11:37 2020 +0000
+
+    trainingwale repo
+
+[33mcommit 713d2c1cf498584b79ee9b463f72deb7c50c1ba9[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 20:05:30 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit cedff25f6e27f5240d3be30c3e2d4d8e49426e50[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 00:49:51 2020 +0530
+
+    Update index.jsp
+
+[33mcommit f7306b5f5771455e4c83b43fcb5f13456444c95c[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 00:44:33 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 18c94e371b114dc990e0457f09b09628f8c55498[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 00:41:19 2020 +0530
+
+    Update index.jsp
+
+[33mcommit faf7a107dfaf9b0befe056bab65ae6084b3c672e[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 00:25:09 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 3a4b72662b266ce2d7c0f257ff09427d41f8ef56[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 17 00:02:59 2020 +0530
+
+    Update index.jsp
+
+[33mcommit d29130daf2269a1a2512d8f6d0d7b9d84accd0b2[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sat May 16 23:46:59 2020 +0530
+
+    Update index.jsp
+
+[33mcommit f95acfb0245d1f279d3f6ad64341f328156b06c1[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 12 12:19:18 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 2f0b4ad4dac290fe3f7a99ac29455064c58bbb1a[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 12 12:12:38 2020 +0530
+
+    Update index.jsp
+
+[33mcommit f0ce92e5d138c89d27d19d8b7747d86092b31c25[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 12 12:09:35 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 413e0c0e7bb8f1d7eef96fde7bdfa174da117703[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 12 12:06:55 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 49816bd37a93ad87634a5bda876ad2c0a067792d[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon May 11 09:47:42 2020 +0530
+
+    Update index.jsp
+
+[33mcommit a14bb29ed6643e92a56b1952529b5687ec6dd65a[m
+Author: root <root@ip-172-31-42-34.ap-south-1.compute.internal>
+Date:   Mon May 11 04:08:51 2020 +0000
+
+    discount changed
+
+[33mcommit c3464aa3a5dbc8d158d1eab56310d8a7c329f1ed[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon May 11 09:32:21 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 5c4581784dde8ea4ed1549e14eecb9c97d86f587[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon May 11 08:31:00 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 3303bcd10a70061f602111d236616e8227e5bf6f[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon May 11 08:17:36 2020 +0530
+
+    Update index.jsp
+
+[33mcommit b99960ec1e971676900b86620b376f2aa2d787f9[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 5 11:12:30 2020 +0530
+
+    Update index.jsp
+
+[33mcommit d125036b4385254ba531123d9b3fc9d3ce6ecc26[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue May 5 11:05:51 2020 +0530
+
+    Update index.jsp
+
+[33mcommit a14f865296c4a5ec085e82627544939c992f4af1[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 3 13:54:46 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 0f04d2a64d8a7d3ab4f9ea767e46c00b6164003b[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 3 13:50:32 2020 +0530
+
+    Update index.jsp
+
+[33mcommit eb246dc1ede67b521e7053cb851441bdc5c430d1[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun May 3 13:47:17 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 74780e0bfc5dfe57dbb1b9c7719c4830f5f90e34[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Wed Apr 29 10:52:03 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 9f099ac90889b74892acf98cbbd8586a1f53e188[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue Apr 28 11:41:34 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 75c8a0f435b4070d4f42e8b354c67dc08b415e89[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue Apr 28 11:38:23 2020 +0530
+
+    Update index.jsp
+
+[33mcommit f0b6c35843b6611ee21e501398d61bc63cf2b2c6[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Tue Apr 28 09:27:19 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 7f5e2121f26bd340c26f292af3ac477e697e6a04[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Apr 27 10:26:44 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 33d9c44df5f1dbeae02eea2ef1f2af91af1b7cfe[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Mon Apr 27 10:24:56 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 91dbb962d5824fdfba30b9dfbd29790ca23f6b57[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Apr 26 22:39:06 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 4913dbe222644f08ed36019488c9de1be181d3c7[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Apr 26 22:16:51 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 9f26993548b10f93741d5a3f9c64bfc028c671ee[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Apr 26 22:12:16 2020 +0530
+
+    Update pom.xml
+
+[33mcommit 1ddfdedde7d0381dd51cae23a7425fd94d9200cd[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Apr 26 22:11:53 2020 +0530
+
+    Update pom.xml
+
+[33mcommit 1165292e7db0a0da25e9b886ced1c99489836e29[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Mar 29 11:01:16 2020 +0530
+
+    Update index.jsp
+
+[33mcommit d4b4fe02629a30dceed0fefc019ebb90181afd2d[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Sun Mar 29 10:59:04 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 50e9fc717cf29bfcfcc25a2a1c7536fa533deb86[m
+Author: root <root@ip-172-31-35-87.ec2.internal>
+Date:   Thu Mar 26 03:52:28 2020 +0000
+
+    new commit
+
+[33mcommit 46731c2652c2db8f5e8ca35371b7721b13a3a2ba[m
+Author: mailrahulsre <59342234+mailrahulsre@users.noreply.github.com>
+Date:   Thu Mar 26 09:19:49 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit 79c78151b27b125b386d3c628feb1a517866b444[m
+Author: rahul <mailrahulsre@gmail.com>
+Date:   Wed Mar 11 06:12:01 2020 +0000
+
+    new change
