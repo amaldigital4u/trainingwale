@@ -7,5 +7,6 @@
   <h3> Changes done </h3>
   <h4> 3rd day Maven </h4>
   <h5> Maven automated project completed</h5>
+  <h6> PUll and Deploy</h6>
 </body>
 </html>
